@@ -1,8 +1,17 @@
 body {
 	background-color:#000000;
-	margin: auto 0; 
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 html {
 	color: white; 
+}
+
+.icon {
+	background-image: url("../images/phone.webp");
+	background-repeat: no-repeat; 
+	height: 250px;
+	width: auto;
+	
 }
