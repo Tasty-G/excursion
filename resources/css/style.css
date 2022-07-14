@@ -1,17 +1,11 @@
-body {
-	background-color:#000000;
-	margin-top: 50px;
-	margin-bottom: 50px;
+body{
+	background-color: black;
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
 }
 
-html {
-	color: white; 
-}
-
-.icon {
-	background-image: url("../images/phone.webp");
-	background-repeat: no-repeat; 
-	height: 250px;
-	width: auto;
-	
+.header--main {
+	font-weight: normal; 
+	font-size: 50px; 
+	color: #FFFFFF; 
 }
